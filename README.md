@@ -1,4 +1,4 @@
-# VulnScanner 🔍
+# VulnScanner Lightweight Script for Detecting CVEs 🔍
 
 This is a beginner-friendly tool that checks if a computer or website is running software with known security problems (called CVEs – Common Vulnerabilities and Exposures).
 
